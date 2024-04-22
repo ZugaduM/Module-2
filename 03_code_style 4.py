@@ -134,8 +134,8 @@ if z > 0:
 
 # автоматическое переименование в PyCharm и подсказки - вам не нужно набирать длинные названия переменных
 
-ss = ['cat', 'wolf', 'ostrich']
-if 'lion' in ss:
+animals_in_vet = ['cat', 'wolf', 'ostrich']
+if 'lion' in animals_in_vet:
     print('Wow!')
 
 # В каждой уважающей себя компании есть style guide (стайл-гайд) - руководство по стилю написания кода.
